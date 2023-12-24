@@ -1,0 +1,25 @@
+{
+  "name": "mainak",
+  "version": "1.0.0",
+  "description": "Mainak's Intro in terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mainak": "index.js"
+  },
+  "keywords": [
+    "mainak",
+    "npm card",
+    "npx-card",
+    "npx business card"
+  ],
+  "author": "mainak",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.0",
+    "chalk": "^5.3.0"
+  }
+}
