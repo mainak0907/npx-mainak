@@ -1,1 +1,1 @@
-"# npx-mainak" 
+```npx mainak``` on your terminal
